@@ -1,0 +1,9 @@
+.react-datepicker__input-container,
+.react-datepicker-wrapper {
+  width: 100%;
+}
+.error {
+  color: tomato;
+  font-size: small;
+  font-weight: bold;
+}
